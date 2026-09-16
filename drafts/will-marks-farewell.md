@@ -21,7 +21,7 @@ And the insight work. Will built the cross-customer analysis that turned our own
 **#SpeakingNumerically**
 - Average recency came down from **91 days to 75** across the back half of 2025 — then smashed through the **70-day barrier** in July, off an all-time high of **87 releases in 30 days**.
 - A record **68% of customers** with data from the current or prior month, with CVI recency now tracking toward **81%**.
-- **50 onboardings and rebuilds** in 2025, and a hard push toward sub-90-day onboarding.
+- His team delivered **50+ onboardings and rebuilds** across 2025, and by August had **7 customers tracking to sub-90-day onboarding** — the bar we'd set at the start of the year.
 
 Look at the denominator, though. Our customer base grew from **73 to 101** over the same window. Will's team absorbed a 40% jump in customers *while* driving recency down. That's not luck, and it isn't grind — that's capacity he deliberately built.
 
@@ -63,7 +63,9 @@ Shane
 - **Scope note:** the strong evidence clusters in 2025, so the draft frames this as a standing capability Henry draws on, not a multi-year run of presentations. Widen the wording only if you can point to earlier examples.
 
 **Will — Data Solutions / recency**
-- 91 → 75 days recency; 50 onboardings + rebuilds in 2025 — *EOY ShoutOuts 2025* deck
+- 91 → 75 days recency — *EOY ShoutOuts 2025* deck (91 on 29 Sep → 75 on 18 Dec 2025)
+- 50+ onboardings and rebuilds — same deck, slide 9, verbatim: *"50 … Data Solutions Onboardings + Rebuilds in 2025 (and 56 data ready) (maybe 60 by EOD!)"*. **Two caveats:** it is a **team** figure on a company-wide shout-out slide, not Will's personal tally — the draft now says "his team delivered"; and it is an as-at-19-Dec snapshot the deck itself expected to reach ~60, hence "50+". If Will took the DSM lead partway through 2025, part of this predates his tenure — check before publishing.
+- Sub-90-day onboarding — the target is **yours**, not Will's: *"Sub-90 days feels like where we want to be here"* (Shane↔Will DM, ~6 Jan 2026). Supporting delivery data: *"7 customers on track for Sub 90 day onboarding"* alongside *"3 customers with onboarding exceeding 90 days and still in data supply"* (exec group DM, 7 Aug 2026). The draft now credits him with hitting a bar you set, rather than setting it.
 - Broke 70; 87 releases in 30 days — #general, 3 Jul 2026
 - 68% record recency — Shane↔Will DM, 26 May 2026
 - CVI recency 62%, on course for 81% — exec group DM, 7 Aug 2026
