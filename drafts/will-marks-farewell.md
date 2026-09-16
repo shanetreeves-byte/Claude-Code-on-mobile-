@@ -19,9 +19,10 @@ And the insight work. Will built the cross-customer analysis that turned our own
 **Then he took on Data Solutions** as team lead, and picked up the metric that matters most to our customers: recency. And he moved it.
 
 **#SpeakingNumerically**
-- Average recency came down from **91 days to 75** across the back half of 2025 — then smashed through the **70-day barrier** in July, off an all-time high of **87 releases in 30 days**.
-- A record **68% of customers** with data from the current or prior month, with CVI recency now tracking toward **81%**.
-- His team delivered **50+ onboardings and rebuilds** across 2025, and by August had **7 customers tracking to sub-90-day onboarding** — the bar we'd set at the start of the year.
+- In **April, 21 customers were sitting above 100 days** of recency. By **July we'd smashed through the 70-day barrier** — off an all-time high of **87 model releases in 30 days**.
+- Customers with data **less than three months old went from 73% to 86% in a single month**.
+- A record **68% with data from the current or prior month** — the best we have ever run.
+- And by August, **7 customers tracking to sub-90-day onboarding** — the bar we'd set at the start of the year.
 
 Look at the denominator, though. Our customer base grew from **73 to 101** over the same window. Will's team absorbed a 40% jump in customers *while* driving recency down. That's not luck, and it isn't grind — that's capacity he deliberately built.
 
@@ -62,10 +63,17 @@ Shane
 - Also: MROI Benchmark report drafted for Aware Super — #cust_aware, 5 Nov 2025
 - **Scope note:** the strong evidence clusters in 2025, so the draft frames this as a standing capability Henry draws on, not a multi-year run of presentations. Widen the wording only if you can point to earlier examples.
 
-**Will — Data Solutions / recency**
-- 91 → 75 days recency — *EOY ShoutOuts 2025* deck (91 on 29 Sep → 75 on 18 Dec 2025)
-- 50+ onboardings and rebuilds — same deck, slide 9, verbatim: *"50 … Data Solutions Onboardings + Rebuilds in 2025 (and 56 data ready) (maybe 60 by EOD!)"*. **Two caveats:** it is a **team** figure on a company-wide shout-out slide, not Will's personal tally — the draft now says "his team delivered"; and it is an as-at-19-Dec snapshot the deck itself expected to reach ~60, hence "50+". If Will took the DSM lead partway through 2025, part of this predates his tenure — check before publishing.
-- Sub-90-day onboarding — the target is **yours**, not Will's: *"Sub-90 days feels like where we want to be here"* (Shane↔Will DM, ~6 Jan 2026). Supporting delivery data: *"7 customers on track for Sub 90 day onboarding"* alongside *"3 customers with onboarding exceeding 90 days and still in data supply"* (exec group DM, 7 Aug 2026). The draft now credits him with hitting a bar you set, rather than setting it.
+**Will — Data Solutions / recency (all within the last 6 months)**
+- 21 customers above 100 days recency — exec group DM, 2 Apr 2026: *"We have 21 customers with Average Recency at >100 days."*
+- Broke 70; 87 releases in 30 days — #general, 3 Jul 2026: *"see if we've broken the 70 barrier… an all time high of 87 releases over the last 30 days."*
+- 73% → 86% under three months old — exec group DM, 12 Jun 2026: *"86% of customers with data less than three months old… significantly ahead of this time last month (73%)."*
+- Record 68% current-or-prior month — Shane↔Will DM, 26 May 2026: *"68% of customers with data from either last month or month before. This is a record."*
+- 7 customers tracking sub-90-day onboarding — exec group DM, 7 Aug 2026. The **target was yours**, not Will's (*"Sub-90 days feels like where we want to be here"*, ~6 Jan 2026), so the draft credits him with hitting the bar rather than setting it. Same update also noted 3 onboardings exceeding 90 days.
+
+**Numbers deliberately NOT used — check before reinstating**
+- **"CVI recency tracking toward 80/81%."** Will's 7 Aug update said *"on course to hit a CVI Recency score of 81% in 10 weeks"* — a six-week-old projection, not an achieved figure. Separately, CVI Recency is measured in **days**, not a percentage, so "80%" conflates two metrics. Live portfolio today (16 Sep 2026, via 1Customer): **Recency 81.9 days, graded Below target (target 80)** across 132 tenants; org CVI flat at 66–68 since mid-June. That cut is global and Will's reporting was a different, likely APAC-weighted slice — not necessarily contradictory, but not something to put in a company-wide post that anyone can check against the dashboard today.
+- **"91 → 75 days across the back half of 2025"** (*EOY ShoutOuts 2025* deck) — true, but outside the six-month window.
+- **"50 onboardings and rebuilds in 2025"** (same deck, slide 9) — a **team** figure on a company-wide shout-out slide, and an as-at-19-Dec snapshot the deck itself expected to reach ~60. Outside the window; dropped.
 - Broke 70; 87 releases in 30 days — #general, 3 Jul 2026
 - 68% record recency — Shane↔Will DM, 26 May 2026
 - CVI recency 62%, on course for 81% — exec group DM, 7 Aug 2026
