@@ -14,7 +14,7 @@ Bitter, because Will has been part of the furniture since 2023 and it's genuinel
 
 First, though, a proper thank you. Will's fingerprints are on an enormous amount of what we do every day.
 
-**It started in Marketing Science.** Will joined us there, and even then he showed the instinct he's carried through his entire time at Mutinex: *if something is hard, go build the thing that makes it easy.* He built the spend-reconciliation tooling that stopped MarSci chasing phantom QA errors. He drove the customer narrative around our open-source MMM evaluation framework — a genuinely bold move that held every vendor in this industry, ourselves included, accountable to the quality of their models. And he migrated the refresh QA out of Tableau and into Hex so the whole team could finally work off one clear traffic-light view. Quiet, unglamorous, enormously leveraged work. Classic Will.
+**It started in Marketing Science.** Will joined us there, and even then he showed the instinct he's carried through his entire time at Mutinex: *if something is hard, go build the thing that makes it easy.* He built the spend-reconciliation tooling that stopped MarSci chasing phantom QA errors. When the Open MMM Validation Framework landed, he was the one who noticed our customers still hadn't heard of it — and wrote the note that put it in front of them, so the work Sam's team did actually reached the people it was built to convince. And he migrated the refresh QA out of Tableau and into Hex so the whole team could finally work off one clear traffic-light view. Quiet, unglamorous, enormously leveraged work. Classic Will.
 
 **Then he took on Data Solutions.** Will moved into the Data Solutions space as team lead and picked up the metric that matters most to our customers: recency. And he moved it.
 
@@ -54,7 +54,7 @@ Shane
 
 **Will — Marketing Science**
 - Spend-reconciliation tooltip for MarSci QA — #customer-marketing-science, 7 Jan 2025
-- Open-source MMM evaluation framework customer comms — #customer-marketing-science, 31 Jul 2025
+- Open MMM Validation Framework customer comms — #customer-marketing-science, 31 Jul 2025. **Note:** the framework itself was built by Sam McCormick, Joseph Kang, Benjamin Dobrin and Phil (announced #general, 27 Jun 2025) and taken to market by Henry (ANA Masters of Data; B&T / Mi-3 coverage, Jul 2025). Will's contribution was spotting that customers were unaware of it and authoring/driving the comms that fixed that — the draft is worded to credit only that.
 - Refresh QA migrated to Hex — #customer-marketing-science, 25 Aug 2025
 
 **Will — Data Solutions / recency**
